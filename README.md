@@ -48,45 +48,7 @@
 
 <div align="center">
 
-## 🦇 **PLAY WITH THE BAT** 🦇
-
-### 🕹️ Gotham City Tic-Tac-Toe
-
-<table>
-<tr>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C1%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🦇</a>
-</td>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C2%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🌃</a>
-</td>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C3%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">⚡</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C4%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🏢</a>
-</td>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C5%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🦇</a>
-</td>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C6%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🌙</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C7%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🛡️</a>
-</td>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C8%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">⭐</a>
-</td>
-<td align="center" width="80" height="80" style="background: #080808; border: 2px solid #FFD700;">
-<a href="https://github.com/jatingarg850/jatingarg850/issues/new?title=ttt%7C9%7CX&body=Gotham+Tic-Tac-Toe!+Click+Submit">🦾</a>
-</td>
-</tr>
-</table>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jbbobwelq6old7zy67fxc4lity&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31jbbobwelq6old7zy67fxc4lity&redirect=true)
 
 </div>
 
