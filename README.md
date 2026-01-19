@@ -25,6 +25,8 @@
 
 <!-- Cool Quote Section -->
 <div align="center">
+
+## 🌌 **MY GITHUB GALAXY** 🌌
   
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
