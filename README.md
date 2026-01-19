@@ -33,27 +33,14 @@
 
 </div>
 
-
 ---
 
 <div align="center">
 
-## 🦇 **GOTHAM'S CRIME STATISTICS** 🦇
+## 🏆 **GITHUB TROPHIES CABINET** 🏆
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jatingarg850&show_icons=true&theme=dark&bg_color=080808&text_color=FFD700&icon_color=00D9FF&title_color=FFD700&border_color=333333&include_all_commits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingarg850&layout=compact&langs_count=8&theme=dark&bg_color=080808&text_color=FFD700&title_color=FFD700&border_color=333333"/>
+[![trophy](https://github-trophies.vercel.app/?username=preetbiswas12&theme=tokyonight)](https://github.com/lucthienphong1120/github-trophies.git)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingarg850&theme=dark&background=080808&stroke=333333&ring=FFD700&fire=FFD700&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="Batman Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌃 **BATMAN'S ACTIVITY IN GOTHAM** 🌃
-
-[![trophy](https://preetbiswas12.github.io/github-profile-trophy/?username=preetbiswas12)](https://github.com/preetbiswas12/github-profile-trophy)
 
 </div>
 
