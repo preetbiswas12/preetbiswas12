@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/preetbiswas12/preetbiswas12/output/github-contribution-grid-snake-preetbiswas12-dark.svg" width="100%" alt=" Snake"/>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=600&size=30&duration=5500&pause=990&color=297FF7&random=true&width=435&height=55&lines=Based+in+Delhi%2C+IN;Ethical+Hacker;FullStack+Software+Developer;Motion+Graphics+Designer;Cinematic+Video+Editor;Mobile+Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze-Gotisch&weight=600&size=30&duration=5500&pause=990&color=297FF7&random=true&width=435&height=55&lines=Based+in+Delhi%2C+IN;Ethical+Hacker;FullStack+Software+Developer;Motion+Graphics+Designer;Cinematic+Video+Editor;Mobile+Application+Developer)](https://git.io/typing-svg)
 
 </div>
 
