@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/preetbiswas12/preetbiswas12/output/github-contribution-grid-snake-preetbiswas12-dark.svg" width="100%" alt=" Snake"/>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Grenze-Gotisch&weight=600&size=30&duration=5500&pause=990&color=297FF7&random=true&width=435&height=55&lines=Based+in+Delhi%2C+IN;Ethical+Hacker;FullStack+Software+Developer;Motion+Graphics+Designer;Cinematic+Video+Editor;Mobile+Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=5500&pause=1000&color=316FF7&center=true&random=true&width=435&height=55&lines=Based+In+Delhi%2C+IN;Ethical+Hacker;Full+Stack+Software+Developer;Motion+Graphics+Designer;Cinematic+Video+Editor;Mobile+Application+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,49 +26,11 @@
 <!-- Cool Quote Section -->
 <div align="center">
   
-> "In the shadows of Gotham, code becomes the sword of justice."
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
+
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-## 🌃 **GOTHAM'S FINEST DEVELOPER**
-
-
-<img align="right" alt="Cat Coding" width="260" style="border-radius:16px;box-shadow:0 4px 24px #00000055; margin: 10px 0 20px 20px;" src="https://cataas.com/cat/says/Code%20like%20a%20batman!" />
-
-
-**🦇 The Dark Knight of Code** protects Gotham's digital realm from bugs and inefficiencies!
-
-- 🌙 **Currently patrolling:** Flutter ecommerce applications
-- 🔧 **Mastering new gadgets:** Unity Game Development & Advanced AI
-- 🤝 **Seeking allies for:** Open Source missions
-- 💬 **Call the Bat-Signal for:** Flutter, Node.js, MongoDB, Firebase, N8N
-- ⚡ **Secret identity:** History & Culture enthusiast
-- 🎮 **Off-duty activity:** Valorant battles in the night
-
-</td>
-<td width="50%" valign="top">
-
-## 🛡️ **BAT-TECH ARSENAL**
-
-### 🦾 **SKILLS OF THE DARK KNIGHT**
-![Flutter](https://img.shields.io/badge/Flutter-080808?style=for-the-badge&logo=flutter&logoColor=FFD700&labelColor=1A1A1A)
-![Dart](https://img.shields.io/badge/Dart-080808?style=for-the-badge&logo=dart&logoColor=00D9FF&labelColor=1A1A1A)
-![Next.js](https://img.shields.io/badge/Next.js-080808?style=for-the-badge&logo=nextdotjs&logoColor=FFD700&labelColor=1A1A1A)
-![React](https://img.shields.io/badge/React-080808?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1A1A1A)
-![Node.js](https://img.shields.io/badge/Node.js-080808?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=1A1A1A)
-![Express](https://img.shields.io/badge/Express.js-080808?style=for-the-badge&logo=express&logoColor=white&labelColor=1A1A1A)
-![MongoDB](https://img.shields.io/badge/MongoDB-080808?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=1A1A1A)
-![Postgres](https://img.shields.io/badge/PostgreSQL-080808?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=1A1A1A)
-![Neon DB](https://img.shields.io/badge/Neon_DB-080808?style=for-the-badge&logo=neon&logoColor=00D9FF&labelColor=1A1A1A)
-![SQL](https://img.shields.io/badge/SQL-080808?style=for-the-badge&logo=sqlite&logoColor=FFD700&labelColor=1A1A1A)
-
-</td>
-</tr>
-</table>
 
 ---
 
