@@ -16,7 +16,7 @@
 
 ![Batman Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=2500&pause=1500&color=FFD700&background=080808&center=true&vCenter=true&width=800&height=80&lines=App+Dev+Master+%F0%9F%A6%87;Web+Dev+Master+%E2%9A%A1;Flutter+Node.js+Expert+%F0%9F%93%B1;From+Delhi%2C+India+%F0%9F%87%AE%F0%9F%87%B3)
 
-<img src="https://raw.githubusercontent.com/preetbiswas12/preetbiswas12/output/github-contribution-grid-snake-preetbiswas12.svg" width="100%" alt=" Snake"/>
+<img src="https://raw.githubusercontent.com/preetbiswas12/preetbiswas12/output/github-contribution-grid-snake-preetbiswas12-dark.svg" width="100%" alt=" Snake"/>
 
 </div>
 

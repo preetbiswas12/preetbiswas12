@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: preetbiswas12
           outputs: |
-            dist/github-contribution-grid-snake-preetbiswas12.svg
+            dist/github-contribution-grid-snake-preetbiswas12-dark.svg?palette=github-dark&color_snake=#FFD700&color_dots=#080808,#1A1A1A,#333333,#FFD700,#00D9FF
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
