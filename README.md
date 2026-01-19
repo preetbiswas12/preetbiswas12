@@ -53,7 +53,7 @@
 
 ## 🌃 **BATMAN'S ACTIVITY IN GOTHAM** 🌃
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatingarg850&theme=gotham&bg_color=080808&color=FFD700&line=00D9FF&point=FFD700&area=true&hide_border=true" alt="Batman Activity Graph"/>
+[![trophy](https://preetbiswas12.github.io/github-profile-trophy/?username=preetbiswas12)](https://github.com/preetbiswas12/github-profile-trophy)
 
 </div>
 
