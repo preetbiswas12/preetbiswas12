@@ -22,24 +22,24 @@
 </div>
 
 ---
-
-<!-- Cool Quote Section -->
 <div align="center">
 
 # 🌌 **MY GITHUB GALAXY** 🌌
-  
 
-  <!-- Top: 3D Contribution Graph -->
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="900" />
+<img src="./profile-3d-contrib/profile-night-view.svg" width="900" />
 
-  <br/><br/>
+<br/><br/>
 
-  <!-- Bottom row: Stats + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=preetbiswas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-       width="420" />
-
-  <img src="https://streak-stats.demolab.com/?user=preetbiswas12&theme=dark"
-       width="420" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=preetbiswas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=preetbiswas12&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
