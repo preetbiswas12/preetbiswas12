@@ -1,14 +1,14 @@
 <div align="center">
   
 ```
-                                           /$$     /$$       /$$                                               /$$    /$$$$$$ 
-                                          | $$    | $$      |__/                                             /$$$$   /$$__  $$
-  /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$  | $$$$$$$  /$$  /$$$$$$$ /$$  /$$  /$$  /$$$$$$   /$$$$$$$|_  $$  |__/  \ $$
- /$$__  $$ /$$__  $$ /$$__  $$ /$$__  $$|_  $$_/  | $$__  $$| $$ /$$_____/| $$ | $$ | $$ |____  $$ /$$_____/  | $$    /$$$$$$/
-| $$  \ $$| $$  \__/| $$$$$$$$| $$$$$$$$  | $$    | $$  \ $$| $$|  $$$$$$ | $$ | $$ | $$  /$$$$$$$|  $$$$$$   | $$   /$$____/ 
-| $$  | $$| $$      | $$_____/| $$_____/  | $$ /$$| $$  | $$| $$ \____  $$| $$ | $$ | $$ /$$__  $$ \____  $$  | $$  | $$      
-| $$$$$$$/| $$      |  $$$$$$$|  $$$$$$$  |  $$$$/| $$$$$$$/| $$ /$$$$$$$/|  $$$$$/$$$$/|  $$$$$$$ /$$$$$$$/ /$$$$$$| $$$$$$$$
-| $$____/ |__/       \_______/ \_______/   \___/  |_______/ |__/|_______/  \_____/\___/  \_______/|_______/ |______/|________/
+                                           /$$         /$$       /$$                                             
+                                          | $$         | $$      |__/                                            
+  /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$       | $$$$$$$  /$$  /$$$$$$$ /$$  /$$  /$$  /$$$$$$   /$$$$$$$
+ /$$__  $$ /$$__  $$ /$$__  $$ /$$__  $$|_  $$_/       | $$__  $$| $$ /$$_____/| $$ | $$ | $$ |____  $$ /$$_____/
+| $$  \ $$| $$  \__/| $$$$$$$$| $$$$$$$$  | $$         | $$  \ $$| $$|  $$$$$$ | $$ | $$ | $$  /$$$$$$$|  $$$$$$  
+| $$  | $$| $$      | $$_____/| $$_____/  | $$ /$$     | $$  | $$| $$ \____  $$| $$ | $$ | $$ /$$__  $$ \____  $$      
+| $$$$$$$/| $$      |  $$$$$$$|  $$$$$$$  |  $$$$/     | $$$$$$$/| $$ /$$$$$$$/|  $$$$$/$$$$/|  $$$$$$$ /$$$$$$$/
+| $$____/ |__/       \_______/ \_______/   \___/       |_______/ |__/|_______/  \_____/\___/  \_______/|_______/ 
 | $$                                                                                                                          
 | $$                                                                                                                          
 |__/                                                                                                                          
@@ -26,7 +26,7 @@
 <!-- Cool Quote Section -->
 <div align="center">
 
-## 🌌 **MY GITHUB GALAXY** 🌌
+# 🌌 **MY GITHUB GALAXY** 🌌
   
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
@@ -37,7 +37,35 @@
 
 <div align="center">
 
-## 🏆 **GITHUB TROPHIES CABINET** 🏆
+# 📊 **TECH ARSENAL** 📊
+
+### 🧠 Core Languages & Foundations
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,html,css,bash,md,latex&theme=dark" />
+
+### ⚙️ Frontend & UI Engineering
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,remix,flutter,tailwind,sass,threejs,vite,figma,xd&theme=dark" />
+
+### 🛠 Backend, APIs & Runtimes
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,postgres,mysql,mongodb,sqlite,supabase,nginx&theme=dark" />
+
+### ☁️ Cloud, DevOps & CI/CD
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,vercel,firebase,sentry,cmake,npm,pnpm,yarn,bun&theme=dark" />
+
+### 🧰 Tools, IDEs & Platforms
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,git,vscode,postman,electron&theme=dark" />
+
+### 🎨 Design, Animation & Video
+<img src="https://skillicons.dev/icons?i=blender,unity,ps,pr,ae,figma,threejs&theme=dark" />
+
+### 🤖 AI, Hardware & Embedded
+<img src="https://skillicons.dev/icons?i=pytorch,arduino,raspberrypi&theme=dark" />
+
+
+---
+
+<div align="center">
+
+# 🏆 **GITHUB TROPHIES CABINET** 🏆
 
 [![trophy](https://github-trophies.vercel.app/?username=preetbiswas12&theme=tokyonight)](https://github.com/lucthienphong1120/github-trophies.git)
 
@@ -45,10 +73,9 @@
 </div>
 
 ---
-
 <div align="center">
 
-## 🎵 **Lets Keep Vibing** 🎵
+# 🎵 ** Keep Vibing** 🎵
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k2tbfwmwxnsggfc7csqhtltiv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
@@ -58,12 +85,21 @@
 
 <div align="center">
 
-## 🌐 **THE BAT-SIGNAL NETWORK** 🌐
+# 🌐 **Let's Connect** 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=1A1A1A)](https://linkedin.com/in/jatin-garg-189889319)
-[![Instagram](https://img.shields.io/badge/Instagram-080808?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1A1A1A)](https://instagram.com/forrealjatin)
-[![Discord](https://img.shields.io/badge/Discord-080808?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=1A1A1A)](https://discord.gg/coddyio)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-080808?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00&labelColor=1A1A1A)](https://www.buymeacoffee.com/coddyio)
+< align="center">
+
+<a href="https://linkedin.com/in/preet-biswas" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/30453579/preet-biswas" target="_blank">
+  <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" height="48" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/preetb2006" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="48" />
+</a>
 
 </div>
 
@@ -73,13 +109,12 @@
 
 ## 💰 **SUPPORT WAYNE FOUNDATION** 💰
 
-<img src="https://media.giphy.com/media/3oEjHI8WJv4x6UPDB6/giphy.gif" width="300" alt="Batman Money"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhmNngxdnZzbTd6d2gyMHZ0cjY4a3VueHpxMHh6NDdrN3E2M3g0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTcnSWYZvafyhEACBO/giphy.gif" width="300" alt="Batman Money"/>
 
-**Help Batman continue protecting Gotham's digital realm!**
+**Let's have a Coffee together! ☕**
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/coddyio)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/preetbiswas12)
 
-*Every contribution helps in the fight against bugs and inefficient code!*
 
 </div>
 
