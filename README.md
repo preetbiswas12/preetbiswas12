@@ -30,6 +30,13 @@
   
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
+---
+<div align="center">
+
+# 📈 **GITHUB STATS & ANALYTICS** 📈
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetbiswas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](
+[![GitHub Streak](https://streak-stats.demolab.com?user=preetbiswas12&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 
