@@ -28,17 +28,21 @@
 
 # 🌌 **MY GITHUB GALAXY** 🌌
   
-![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
----
-<div align="center">
+  <!-- Top: 3D Contribution Graph -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="900" />
 
-# 📈 **GITHUB STATS & ANALYTICS** 📈
+  <br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetbiswas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+  <!-- Bottom row: Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=preetbiswas12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+       width="420" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=preetbiswas12&theme=dark)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=preetbiswas12&theme=dark"
+       width="420" />
+
 </div>
+
 
 ---
 
