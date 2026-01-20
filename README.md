@@ -107,64 +107,22 @@
 
 <div align="center">
 
-## 💰 **SUPPORT WAYNE FOUNDATION** 💰
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhmNngxdnZzbTd6d2gyMHZ0cjY4a3VueHpxMHh6NDdrN3E2M3g0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTcnSWYZvafyhEACBO/giphy.gif" width="300" alt="Batman Money"/>
 
 **Let's have a Coffee together! ☕**
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/preetbiswas12)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-black.png)](https://www.buymeacoffee.com/preetbiswas12)
 
 
-</div>
-
----
-
-<div align="center">
-
-![Batman Quote](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=2000&color=FFD700&background=080808&center=true&vCenter=true&width=800&height=60&lines=%22A+hero+can+be+anyone.+Even+a+developer+writing+clean+code.%22;%22Not+all+heroes+wear+capes%2C+some+commit+code.%22;%22In+Gotham%2C+we+trust+the+dark+knight+of+coding!%22)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=jatingarg850&label=VISITORS%20TO%20THE%20BATCAVE&color=FFD700&style=for-the-badge&labelColor=080808" alt="Batman Profile Views"/>
-
-**🦇 Rise above the bugs -- become the legend Gotham deserves!**
 
 </div>
 
 ---
 
-<!-- BATMAN'S SECRET SETUP INSTRUCTIONS -->
-<!--
-1. Create repository named 'jatingarg850' (your username)
-2. Add this content to README.md
-3. Create .github/workflows/snake.yml:
+<img src="https://komarev.com/ghpvc/?username=preetbiswas12&label=VISITORS&color=FFD700&style=for-the-badge&labelColor=080808" alt="Profile Views"/>
 
-name: Generate Batman Snake
+**Catch you on the flip side!**
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate Batman snake game
-        uses: Platane/snk@v3
-        with:
-          github_user_name: jatingarg850
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFD700&color_dots=#080808,#1A1A1A,#333333,#FFD700,#00D9FF
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+</div>
+
+---
