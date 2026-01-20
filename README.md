@@ -75,7 +75,7 @@
 ---
 <div align="center">
 
-# 🎵 ** Keep Vibing** 🎵
+# 🎵 **Keep Vibing** 🎵
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k2tbfwmwxnsggfc7csqhtltiv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
@@ -87,7 +87,7 @@
 
 # 🌐 **Let's Connect** 🌐
 
-< align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/preet-biswas" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" />
