@@ -129,7 +129,7 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=preetbiswas12&label=VISITORS&color=FFD700&style=for-the-badge&labelColor=080808" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=preetbiswas12&label=VISITORS&color=063C5E&style=for-the-badge&labelColor=080808" alt="Profile Views"/>
 
 **Catch you on the flip side!**
 
