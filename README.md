@@ -88,7 +88,7 @@
 <div align="center">
 
 # 🎵 **Keep Vibing** 🎵
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k2tbfwmwxnsggfc7csqhtltiv4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify Now Playing](https://spotibadge.vercel.app/api/now-playing/.eJwVjltPgzAYQP9LnyXha0tLfQO3VeNcGJPgeDH0hpBuJFxk0fjfZW_nJOfh_KIBPaLkmGIZkoFUtwv1cuaTkefiOd0Op4kR7mU-QtcfeHIlBR2pKOpTS-ds9x3vu3xzaRKTV0vT5rMPXFr0zLVQ3tTBLwzkBztuyv4n8G-NeIfoep6-Fq3mJyj562cXyIpl-5K9oAdk1pNssHZaWberRASUAadqIWIKWAlOnYq1xdYQBgD3blw7ZXFNgFiLw5AaUYtIO1fHRkcYwhXR3z-ROUXJ.pkdZXIaORqUYSGZg9XeOfSG8JnI.svg?content_size=medium&background_type=blur_dark&border_color=ffffff&background_color=181414&width=300&height=130&show_status=true)](https://spotibadge.vercel.app/redirect/.eJwVjltPgzAYQP9LnyXha0tLfQO3VeNcGJPgeDH0hpBuJFxk0fjfZW_nJOfh_KIBPaLkmGIZkoFUtwv1cuaTkefiOd0Op4kR7mU-QtcfeHIlBR2pKOpTS-ds9x3vu3xzaRKTV0vT5rMPXFr0zLVQ3tTBLwzkBztuyv4n8G-NeIfoep6-Fq3mJyj562cXyIpl-5K9oAdk1pNssHZaWberRASUAadqIWIKWAlOnYq1xdYQBgD3blw7ZXFNgFiLw5AaUYtIO1fHRkcYwhXR3z-ROUXJ.pkdZXIaORqUYSGZg9XeOfSG8JnI)
 
 </div>
 
@@ -116,10 +116,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhmNngxdnZzbTd6d2gyMHZ0cjY4a3VueHpxMHh6NDdrN3E2M3g0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTcnSWYZvafyhEACBO/giphy.gif" width="300" alt="Batman Money"/>
 
 **Let's have a Coffee together! ☕**
 
